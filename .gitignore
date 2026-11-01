@@ -1,0 +1,15 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*.swo
+
+# Optional: large raw binaries if you prefer not to version them
+# raw/**/*.pdf
+# raw/**/*.mp4
